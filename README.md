@@ -1,2 +1,2 @@
-# Webpack-Advanced-Learning
-进阶学习Webpack
+# Advanced-Webpack-Learning
+Webpack进阶学习
